@@ -1,0 +1,20 @@
+{
+  "name": "distribuidos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cliente.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "dgram": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2",
+    "typescript": "^5.0.3",
+    "websocket": "^1.0.34",
+    "ws": "^8.13.0"
+  }
+}
